@@ -1,1 +1,1 @@
-A quick test for a new stepper motor
+A quick test for a stepper motor.
